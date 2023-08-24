@@ -1,0 +1,2 @@
+# AnalogClock
+Javascript file calculations:
